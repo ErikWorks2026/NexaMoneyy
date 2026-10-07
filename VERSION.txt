@@ -1,0 +1,1 @@
+NexaMoney 7.18 - oprava typu zůstatku
